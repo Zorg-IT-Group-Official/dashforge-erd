@@ -3960,7 +3960,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9at5b601qIBBHkjJptCo-2" value="Services" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="-1280" width="180" height="360" as="geometry" />
+          <mxGeometry x="-660" y="-1290" width="180" height="360" as="geometry" />
         </mxCell>
         <mxCell id="9at5b601qIBBHkjJptCo-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="9at5b601qIBBHkjJptCo-2" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
